@@ -1,0 +1,303 @@
+Alter,Geschlecht,Schmerztyp,Blutdruck,Cholesterin,Blutzucker,Herzinfarkt,Schmerzintensität
+63,männlich,unsymptomatisch,123.0,278.0,1,Herzinfarkt,Mittel
+37,männlich,nicht-anginös,166.0,286.0,0,Herzinfarkt,Keine Schmerzen
+41,weiblich,untypische anginös,139.0,290.0,0,Herzinfarkt,Kaum Schmerzen
+56,männlich,untypische anginös,104.0,265.0,0,Herzinfarkt,Starke Schmerzen
+57,weiblich,typisch anginös,154.0,297.0,0,Herzinfarkt,Starke Schmerzen
+57,männlich,typisch anginös,134.0,299.0,0,Herzinfarkt,Starke Schmerzen
+56,weiblich,untypische anginös,171.0,323.0,0,Herzinfarkt,Kaum Schmerzen
+44,männlich,untypische anginös,139.0,272.0,0,Herzinfarkt,Keine Schmerzen
+52,männlich,nicht-anginös,117.0,269.0,1,Herzinfarkt,Sehr starke Schmerzen
+57,männlich,nicht-anginös,134.0,293.0,0,Herzinfarkt,Kaum Schmerzen
+54,männlich,typisch anginös,134.0,287.0,0,Herzinfarkt,Mittel
+48,weiblich,nicht-anginös,122.0,280.0,0,Herzinfarkt,Keine Schmerzen
+49,männlich,untypische anginös,138.0,306.0,0,Herzinfarkt,Sehr starke Schmerzen
+64,männlich,unsymptomatisch,128.0,285.0,0,Herzinfarkt,Keine Schmerzen
+58,weiblich,unsymptomatisch,108.0,263.0,1,Herzinfarkt,Starke Schmerzen
+50,weiblich,nicht-anginös,148.0,306.0,0,Herzinfarkt,Kaum Schmerzen
+58,weiblich,nicht-anginös,77.0,238.0,0,Herzinfarkt,Mittel
+66,weiblich,unsymptomatisch,118.0,274.0,0,Herzinfarkt,Keine Schmerzen
+43,männlich,typisch anginös,138.0,294.0,0,Herzinfarkt,Keine Schmerzen
+69,weiblich,unsymptomatisch,95.0,244.0,0,Herzinfarkt,Mittel
+59,männlich,typisch anginös,136.0,261.0,0,Herzinfarkt,Mittel
+44,männlich,nicht-anginös,129.0,300.0,0,Herzinfarkt,Starke Schmerzen
+42,männlich,typisch anginös,146.0,283.0,0,Herzinfarkt,Keine Schmerzen
+61,männlich,nicht-anginös,134.0,294.0,1,Herzinfarkt,Sehr starke Schmerzen
+40,männlich,unsymptomatisch,127.0,288.0,0,Herzinfarkt,Keine Schmerzen
+71,weiblich,untypische anginös,134.0,282.0,0,Herzinfarkt,Mittel
+59,männlich,nicht-anginös,130.0,287.0,1,Herzinfarkt,Mittel
+51,männlich,nicht-anginös,150.0,297.0,0,Herzinfarkt,Keine Schmerzen
+65,weiblich,nicht-anginös,125.0,283.0,1,Herzinfarkt,Kaum Schmerzen
+53,männlich,nicht-anginös,126.0,283.0,1,Herzinfarkt,Starke Schmerzen
+41,weiblich,untypische anginös,115.0,272.0,0,Herzinfarkt,Starke Schmerzen
+65,männlich,typisch anginös,131.0,294.0,0,Herzinfarkt,Sehr starke Schmerzen
+44,männlich,untypische anginös,140.0,307.0,0,Herzinfarkt,Mittel
+54,männlich,nicht-anginös,146.0,300.0,0,Herzinfarkt,Mittel
+51,männlich,unsymptomatisch,141.0,271.0,0,Herzinfarkt,Mittel
+46,weiblich,nicht-anginös,132.0,286.0,0,Herzinfarkt,Mittel
+54,weiblich,nicht-anginös,140.0,289.0,1,Herzinfarkt,Sehr starke Schmerzen
+54,männlich,nicht-anginös,151.0,299.0,0,Herzinfarkt,Keine Schmerzen
+65,weiblich,nicht-anginös,140.0,289.0,0,Herzinfarkt,Keine Schmerzen
+65,weiblich,nicht-anginös,145.0,303.0,0,Herzinfarkt,Starke Schmerzen
+51,weiblich,nicht-anginös,139.0,293.0,0,Herzinfarkt,Mittel
+48,männlich,untypische anginös,126.0,280.0,0,Herzinfarkt,Mittel
+45,männlich,typisch anginös,126.0,283.0,0,Herzinfarkt,Keine Schmerzen
+53,weiblich,typisch anginös,148.0,292.0,0,Herzinfarkt,Mittel
+39,männlich,nicht-anginös,164.0,319.0,0,Herzinfarkt,Sehr starke Schmerzen
+52,männlich,untypische anginös,149.0,290.0,0,Herzinfarkt,Keine Schmerzen
+44,männlich,nicht-anginös,144.0,302.0,0,Herzinfarkt,Keine Schmerzen
+47,männlich,nicht-anginös,135.0,283.0,0,Herzinfarkt,Starke Schmerzen
+53,weiblich,nicht-anginös,129.0,278.0,0,Herzinfarkt,Keine Schmerzen
+53,weiblich,typisch anginös,150.0,294.0,0,Herzinfarkt,Sehr starke Schmerzen
+51,weiblich,nicht-anginös,144.0,300.0,0,Herzinfarkt,Kaum Schmerzen
+66,männlich,typisch anginös,117.0,290.0,0,Herzinfarkt,Starke Schmerzen
+62,männlich,nicht-anginös,109.0,252.0,0,Herzinfarkt,Starke Schmerzen
+44,weiblich,nicht-anginös,129.0,296.0,0,Herzinfarkt,Starke Schmerzen
+63,weiblich,nicht-anginös,142.0,282.0,0,Herzinfarkt,Sehr starke Schmerzen
+52,männlich,untypische anginös,127.0,274.0,0,Herzinfarkt,Mittel
+48,männlich,typisch anginös,105.0,272.0,0,Herzinfarkt,Starke Schmerzen
+45,männlich,typisch anginös,146.0,302.0,0,Herzinfarkt,Keine Schmerzen
+34,männlich,unsymptomatisch,130.0,298.0,0,Herzinfarkt,Starke Schmerzen
+57,weiblich,typisch anginös,125.0,277.0,0,Herzinfarkt,Starke Schmerzen
+71,weiblich,nicht-anginös,134.0,306.0,1,Herzinfarkt,Kaum Schmerzen
+54,männlich,untypische anginös,126.0,282.0,0,Herzinfarkt,Mittel
+52,männlich,unsymptomatisch,144.0,293.0,0,Herzinfarkt,Sehr starke Schmerzen
+41,männlich,untypische anginös,134.0,290.0,0,Herzinfarkt,Keine Schmerzen
+58,männlich,nicht-anginös,139.0,295.0,1,Herzinfarkt,Sehr starke Schmerzen
+35,weiblich,typisch anginös,157.0,302.0,0,Herzinfarkt,Mittel
+51,männlich,nicht-anginös,155.0,280.0,0,Herzinfarkt,Mittel
+45,weiblich,untypische anginös,123.0,284.0,0,Herzinfarkt,Keine Schmerzen
+44,männlich,untypische anginös,144.0,299.0,0,Herzinfarkt,Mittel
+62,weiblich,typisch anginös,117.0,288.0,0,Herzinfarkt,Starke Schmerzen
+54,männlich,nicht-anginös,106.0,237.0,0,Herzinfarkt,Kaum Schmerzen
+51,männlich,nicht-anginös,129.0,287.0,0,Herzinfarkt,Sehr starke Schmerzen
+29,männlich,untypische anginös,134.0,299.0,0,Herzinfarkt,Keine Schmerzen
+51,männlich,typisch anginös,140.0,286.0,0,Herzinfarkt,Kaum Schmerzen
+43,weiblich,nicht-anginös,120.0,290.0,0,Herzinfarkt,Starke Schmerzen
+55,weiblich,untypische anginös,139.0,275.0,0,Herzinfarkt,Starke Schmerzen
+51,männlich,nicht-anginös,110.0,276.0,1,Herzinfarkt,Kaum Schmerzen
+59,männlich,untypische anginös,144.0,282.0,0,Herzinfarkt,Mittel
+52,männlich,untypische anginös,137.0,291.0,1,Herzinfarkt,Keine Schmerzen
+58,männlich,nicht-anginös,152.0,300.0,0,Herzinfarkt,Sehr starke Schmerzen
+41,männlich,nicht-anginös,121.0,270.0,0,Herzinfarkt,Keine Schmerzen
+45,männlich,untypische anginös,117.0,283.0,0,Herzinfarkt,Kaum Schmerzen
+60,weiblich,nicht-anginös,177.0,329.0,0,Herzinfarkt,Kaum Schmerzen
+52,männlich,unsymptomatisch,103.0,272.0,1,Herzinfarkt,Mittel
+42,weiblich,typisch anginös,148.0,303.0,0,Herzinfarkt,Sehr starke Schmerzen
+67,weiblich,nicht-anginös,127.0,299.0,0,Herzinfarkt,Keine Schmerzen
+68,männlich,nicht-anginös,141.0,281.0,0,Herzinfarkt,Keine Schmerzen
+46,männlich,untypische anginös,124.0,271.0,1,Herzinfarkt,Starke Schmerzen
+54,weiblich,nicht-anginös,106.0,264.0,0,Herzinfarkt,Mittel
+58,weiblich,typisch anginös,154.0,299.0,0,Herzinfarkt,Kaum Schmerzen
+48,männlich,nicht-anginös,123.0,283.0,1,Herzinfarkt,Kaum Schmerzen
+57,männlich,typisch anginös,125.0,279.0,0,Herzinfarkt,Kaum Schmerzen
+52,männlich,nicht-anginös,146.0,306.0,0,Herzinfarkt,Starke Schmerzen
+54,weiblich,untypische anginös,134.0,284.0,1,Herzinfarkt,Starke Schmerzen
+45,weiblich,untypische anginös,120.0,257.0,0,Herzinfarkt,Kaum Schmerzen
+53,männlich,typisch anginös,158.0,306.0,0,Herzinfarkt,Starke Schmerzen
+62,weiblich,typisch anginös,120.0,273.0,0,Herzinfarkt,Mittel
+52,männlich,typisch anginös,148.0,317.0,1,Herzinfarkt,Kaum Schmerzen
+43,männlich,nicht-anginös,159.0,303.0,0,Herzinfarkt,Starke Schmerzen
+53,männlich,nicht-anginös,136.0,291.0,1,Herzinfarkt,Keine Schmerzen
+42,männlich,unsymptomatisch,160.0,298.0,0,Herzinfarkt,Kaum Schmerzen
+59,männlich,unsymptomatisch,123.0,280.0,0,Herzinfarkt,Kaum Schmerzen
+63,weiblich,untypische anginös,101.0,237.0,0,Herzinfarkt,Keine Schmerzen
+42,männlich,nicht-anginös,155.0,296.0,1,Herzinfarkt,Starke Schmerzen
+50,männlich,nicht-anginös,140.0,275.0,0,Herzinfarkt,Mittel
+68,weiblich,nicht-anginös,117.0,260.0,0,Herzinfarkt,Sehr starke Schmerzen
+69,männlich,unsymptomatisch,122.0,297.0,1,Herzinfarkt,Mittel
+45,weiblich,typisch anginös,113.0,273.0,0,Herzinfarkt,Mittel
+50,weiblich,untypische anginös,158.0,310.0,0,Herzinfarkt,Starke Schmerzen
+50,weiblich,typisch anginös,161.0,302.0,0,Herzinfarkt,Sehr starke Schmerzen
+64,weiblich,typisch anginös,106.0,277.0,0,Herzinfarkt,Mittel
+57,männlich,nicht-anginös,133.0,284.0,1,Herzinfarkt,Kaum Schmerzen
+64,weiblich,nicht-anginös,152.0,306.0,0,Herzinfarkt,Starke Schmerzen
+43,männlich,typisch anginös,156.0,302.0,0,Herzinfarkt,Keine Schmerzen
+55,männlich,untypische anginös,146.0,295.0,0,Herzinfarkt,Mittel
+37,weiblich,nicht-anginös,131.0,279.0,0,Herzinfarkt,Keine Schmerzen
+41,männlich,nicht-anginös,120.0,283.0,0,Herzinfarkt,Keine Schmerzen
+56,männlich,unsymptomatisch,159.0,318.0,0,Herzinfarkt,Kaum Schmerzen
+46,weiblich,untypische anginös,154.0,307.0,0,Herzinfarkt,Kaum Schmerzen
+46,weiblich,typisch anginös,130.0,274.0,0,Herzinfarkt,Kaum Schmerzen
+64,weiblich,typisch anginös,141.0,312.0,0,Herzinfarkt,Kaum Schmerzen
+59,männlich,typisch anginös,159.0,292.0,0,Herzinfarkt,Kaum Schmerzen
+41,weiblich,nicht-anginös,142.0,280.0,0,Herzinfarkt,Mittel
+54,weiblich,nicht-anginös,156.0,328.0,0,Herzinfarkt,Keine Schmerzen
+39,weiblich,nicht-anginös,119.0,284.0,0,Herzinfarkt,Keine Schmerzen
+34,weiblich,untypische anginös,126.0,278.0,0,Herzinfarkt,Keine Schmerzen
+47,männlich,typisch anginös,121.0,278.0,0,Herzinfarkt,Kaum Schmerzen
+67,weiblich,nicht-anginös,148.0,299.0,0,Herzinfarkt,Sehr starke Schmerzen
+52,weiblich,nicht-anginös,115.0,272.0,0,Herzinfarkt,Sehr starke Schmerzen
+74,weiblich,untypische anginös,120.0,270.0,0,Herzinfarkt,Starke Schmerzen
+54,weiblich,nicht-anginös,138.0,276.0,0,Herzinfarkt,Kaum Schmerzen
+49,weiblich,untypische anginös,142.0,305.0,0,Herzinfarkt,Mittel
+42,männlich,untypische anginös,124.0,292.0,0,Herzinfarkt,Starke Schmerzen
+41,männlich,untypische anginös,127.0,274.0,0,Herzinfarkt,Sehr starke Schmerzen
+41,weiblich,untypische anginös,127.0,274.0,0,Herzinfarkt,Mittel
+49,weiblich,typisch anginös,157.0,314.0,0,Herzinfarkt,Kaum Schmerzen
+60,weiblich,nicht-anginös,128.0,269.0,1,Herzinfarkt,Mittel
+62,männlich,untypische anginös,122.0,260.0,1,Herzinfarkt,Keine Schmerzen
+57,männlich,typisch anginös,92.0,271.0,0,Herzinfarkt,Keine Schmerzen
+64,männlich,typisch anginös,146.0,269.0,0,Herzinfarkt,Kaum Schmerzen
+51,weiblich,nicht-anginös,135.0,302.0,0,Herzinfarkt,Sehr starke Schmerzen
+43,männlich,typisch anginös,153.0,313.0,0,Herzinfarkt,Sehr starke Schmerzen
+42,weiblich,nicht-anginös,151.0,302.0,0,Herzinfarkt,Kaum Schmerzen
+67,weiblich,typisch anginös,119.0,271.0,0,Herzinfarkt,Starke Schmerzen
+76,weiblich,nicht-anginös,135.0,285.0,0,Herzinfarkt,Starke Schmerzen
+70,männlich,untypische anginös,153.0,291.0,0,Herzinfarkt,Kaum Schmerzen
+44,weiblich,nicht-anginös,126.0,303.0,0,Herzinfarkt,Sehr starke Schmerzen
+60,weiblich,unsymptomatisch,127.0,259.0,0,Herzinfarkt,Kaum Schmerzen
+44,männlich,nicht-anginös,100.0,233.0,0,Herzinfarkt,Kaum Schmerzen
+42,männlich,nicht-anginös,137.0,287.0,0,Herzinfarkt,Sehr starke Schmerzen
+66,männlich,typisch anginös,104.0,272.0,0,Herzinfarkt,Starke Schmerzen
+71,weiblich,typisch anginös,135.0,294.0,0,Herzinfarkt,Starke Schmerzen
+64,männlich,unsymptomatisch,107.0,268.0,0,Herzinfarkt,Starke Schmerzen
+66,weiblich,nicht-anginös,135.0,280.0,0,Herzinfarkt,Keine Schmerzen
+39,weiblich,nicht-anginös,147.0,289.0,0,Herzinfarkt,Sehr starke Schmerzen
+58,weiblich,typisch anginös,182.0,310.0,0,Herzinfarkt,Starke Schmerzen
+47,männlich,nicht-anginös,132.0,286.0,0,Herzinfarkt,Kaum Schmerzen
+35,männlich,untypische anginös,169.0,310.0,0,Herzinfarkt,Starke Schmerzen
+58,männlich,untypische anginös,124.0,253.0,0,Herzinfarkt,Kaum Schmerzen
+56,männlich,untypische anginös,141.0,297.0,0,Herzinfarkt,Mittel
+56,männlich,untypische anginös,119.0,276.0,0,Herzinfarkt,Mittel
+55,weiblich,untypische anginös,125.0,272.0,0,Herzinfarkt,Mittel
+41,männlich,untypische anginös,137.0,296.0,0,Herzinfarkt,Starke Schmerzen
+38,männlich,nicht-anginös,94.0,238.0,0,Herzinfarkt,Sehr starke Schmerzen
+67,männlich,typisch anginös,124.0,296.0,0,Kein Herzinfarkt,Starke Schmerzen
+67,männlich,typisch anginös,112.0,278.0,0,Kein Herzinfarkt,Keine Schmerzen
+62,weiblich,typisch anginös,112.0,271.0,0,Kein Herzinfarkt,Kaum Schmerzen
+63,männlich,typisch anginös,114.0,288.0,0,Kein Herzinfarkt,Starke Schmerzen
+53,männlich,typisch anginös,140.0,285.0,1,Kein Herzinfarkt,Starke Schmerzen
+56,männlich,nicht-anginös,131.0,282.0,1,Kein Herzinfarkt,Kaum Schmerzen
+48,männlich,untypische anginös,111.0,257.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+58,männlich,untypische anginös,124.0,285.0,0,Kein Herzinfarkt,Kaum Schmerzen
+58,männlich,nicht-anginös,145.0,285.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+60,männlich,typisch anginös,127.0,302.0,0,Kein Herzinfarkt,Keine Schmerzen
+40,männlich,typisch anginös,144.0,293.0,0,Kein Herzinfarkt,Mittel
+60,männlich,typisch anginös,150.0,297.0,1,Kein Herzinfarkt,Mittel
+64,männlich,nicht-anginös,126.0,284.0,0,Kein Herzinfarkt,Mittel
+43,männlich,typisch anginös,153.0,311.0,0,Kein Herzinfarkt,Keine Schmerzen
+57,männlich,typisch anginös,141.0,284.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+55,männlich,typisch anginös,117.0,272.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+65,weiblich,typisch anginös,127.0,292.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+61,weiblich,typisch anginös,161.0,306.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+58,männlich,nicht-anginös,161.0,310.0,0,Kein Herzinfarkt,Mittel
+50,männlich,typisch anginös,122.0,269.0,0,Kein Herzinfarkt,Mittel
+44,männlich,typisch anginös,109.0,258.0,0,Kein Herzinfarkt,Keine Schmerzen
+60,männlich,typisch anginös,148.0,281.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+54,männlich,typisch anginös,133.0,289.0,0,Kein Herzinfarkt,Starke Schmerzen
+50,männlich,nicht-anginös,133.0,262.0,0,Kein Herzinfarkt,Kaum Schmerzen
+41,männlich,typisch anginös,94.0,261.0,0,Kein Herzinfarkt,Kaum Schmerzen
+51,weiblich,typisch anginös,113.0,294.0,0,Kein Herzinfarkt,Starke Schmerzen
+58,männlich,typisch anginös,122.0,287.0,0,Kein Herzinfarkt,Mittel
+54,männlich,typisch anginös,128.0,277.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+60,männlich,typisch anginös,147.0,293.0,0,Kein Herzinfarkt,Mittel
+60,männlich,nicht-anginös,141.0,296.0,0,Kein Herzinfarkt,Starke Schmerzen
+59,männlich,typisch anginös,138.0,299.0,0,Kein Herzinfarkt,Starke Schmerzen
+46,männlich,nicht-anginös,109.0,260.0,0,Kein Herzinfarkt,Kaum Schmerzen
+67,männlich,typisch anginös,142.0,306.0,1,Kein Herzinfarkt,Mittel
+62,männlich,typisch anginös,171.0,312.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+65,männlich,typisch anginös,132.0,268.0,0,Kein Herzinfarkt,Keine Schmerzen
+44,männlich,typisch anginös,106.0,260.0,0,Kein Herzinfarkt,Starke Schmerzen
+60,männlich,typisch anginös,141.0,298.0,0,Kein Herzinfarkt,Mittel
+58,männlich,typisch anginös,120.0,289.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+68,männlich,nicht-anginös,141.0,287.0,1,Kein Herzinfarkt,Starke Schmerzen
+62,weiblich,typisch anginös,126.0,295.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+52,männlich,typisch anginös,107.0,263.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+59,männlich,typisch anginös,145.0,292.0,0,Kein Herzinfarkt,Starke Schmerzen
+60,weiblich,typisch anginös,167.0,331.0,0,Kein Herzinfarkt,Kaum Schmerzen
+49,männlich,nicht-anginös,132.0,274.0,0,Kein Herzinfarkt,Mittel
+59,männlich,typisch anginös,134.0,283.0,0,Kein Herzinfarkt,Mittel
+57,männlich,nicht-anginös,155.0,304.0,0,Kein Herzinfarkt,Starke Schmerzen
+61,männlich,typisch anginös,140.0,279.0,0,Kein Herzinfarkt,Starke Schmerzen
+39,männlich,typisch anginös,139.0,287.0,0,Kein Herzinfarkt,Mittel
+61,weiblich,typisch anginös,104.0,255.0,0,Kein Herzinfarkt,Starke Schmerzen
+56,männlich,typisch anginös,154.0,289.0,1,Kein Herzinfarkt,Mittel
+43,weiblich,typisch anginös,158.0,296.0,1,Kein Herzinfarkt,Kaum Schmerzen
+62,weiblich,nicht-anginös,143.0,284.0,0,Kein Herzinfarkt,Kaum Schmerzen
+63,männlich,typisch anginös,103.0,248.0,1,Kein Herzinfarkt,Starke Schmerzen
+65,männlich,typisch anginös,143.0,296.0,0,Kein Herzinfarkt,Keine Schmerzen
+48,männlich,typisch anginös,151.0,306.0,1,Kein Herzinfarkt,Sehr starke Schmerzen
+63,weiblich,typisch anginös,129.0,274.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+55,männlich,typisch anginös,143.0,302.0,0,Kein Herzinfarkt,Starke Schmerzen
+65,männlich,unsymptomatisch,134.0,305.0,1,Kein Herzinfarkt,Mittel
+56,weiblich,typisch anginös,142.0,280.0,1,Kein Herzinfarkt,Kaum Schmerzen
+54,männlich,typisch anginös,127.0,275.0,0,Kein Herzinfarkt,Mittel
+70,männlich,typisch anginös,100.0,253.0,0,Kein Herzinfarkt,Keine Schmerzen
+62,männlich,untypische anginös,125.0,271.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+35,männlich,typisch anginös,133.0,300.0,0,Kein Herzinfarkt,Mittel
+59,männlich,unsymptomatisch,130.0,282.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+64,männlich,nicht-anginös,145.0,307.0,0,Kein Herzinfarkt,Starke Schmerzen
+47,männlich,nicht-anginös,160.0,296.0,0,Kein Herzinfarkt,Starke Schmerzen
+57,männlich,typisch anginös,151.0,301.0,1,Kein Herzinfarkt,Starke Schmerzen
+55,männlich,typisch anginös,132.0,286.0,0,Kein Herzinfarkt,Kaum Schmerzen
+64,männlich,typisch anginös,144.0,310.0,0,Kein Herzinfarkt,Starke Schmerzen
+70,männlich,typisch anginös,112.0,255.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+51,männlich,typisch anginös,161.0,312.0,0,Kein Herzinfarkt,Keine Schmerzen
+58,männlich,typisch anginös,123.0,260.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+60,männlich,typisch anginös,124.0,279.0,0,Kein Herzinfarkt,Kaum Schmerzen
+77,männlich,typisch anginös,139.0,297.0,0,Kein Herzinfarkt,Kaum Schmerzen
+35,männlich,typisch anginös,139.0,292.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+70,männlich,nicht-anginös,158.0,302.0,0,Kein Herzinfarkt,Keine Schmerzen
+59,weiblich,typisch anginös,139.0,278.0,0,Kein Herzinfarkt,Kaum Schmerzen
+64,männlich,typisch anginös,176.0,310.0,0,Kein Herzinfarkt,Starke Schmerzen
+57,männlich,typisch anginös,142.0,298.0,0,Kein Herzinfarkt,Mittel
+56,männlich,typisch anginös,120.0,287.0,0,Kein Herzinfarkt,Mittel
+48,männlich,typisch anginös,144.0,289.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+56,weiblich,typisch anginös,133.0,291.0,0,Kein Herzinfarkt,Starke Schmerzen
+66,männlich,untypische anginös,127.0,299.0,0,Kein Herzinfarkt,Keine Schmerzen
+54,männlich,untypische anginös,143.0,297.0,0,Kein Herzinfarkt,Mittel
+69,männlich,nicht-anginös,145.0,290.0,0,Kein Herzinfarkt,Mittel
+51,männlich,typisch anginös,116.0,278.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+43,männlich,typisch anginös,120.0,254.0,1,Kein Herzinfarkt,Kaum Schmerzen
+62,weiblich,typisch anginös,99.0,255.0,1,Kein Herzinfarkt,Keine Schmerzen
+67,männlich,typisch anginös,115.0,263.0,0,Kein Herzinfarkt,Mittel
+59,männlich,unsymptomatisch,156.0,307.0,0,Kein Herzinfarkt,Keine Schmerzen
+45,männlich,typisch anginös,136.0,281.0,0,Kein Herzinfarkt,Starke Schmerzen
+58,männlich,typisch anginös,130.0,281.0,0,Kein Herzinfarkt,Mittel
+50,männlich,typisch anginös,165.0,315.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+62,weiblich,typisch anginös,136.0,282.0,0,Kein Herzinfarkt,Mittel
+38,männlich,unsymptomatisch,122.0,286.0,0,Kein Herzinfarkt,Starke Schmerzen
+66,weiblich,typisch anginös,112.0,274.0,1,Kein Herzinfarkt,Sehr starke Schmerzen
+52,männlich,typisch anginös,127.0,291.0,0,Kein Herzinfarkt,Keine Schmerzen
+53,männlich,typisch anginös,144.0,286.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+63,weiblich,typisch anginös,116.0,277.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+54,männlich,typisch anginös,110.0,249.0,0,Kein Herzinfarkt,Mittel
+66,männlich,typisch anginös,129.0,283.0,0,Kein Herzinfarkt,Mittel
+55,weiblich,typisch anginös,115.0,276.0,0,Kein Herzinfarkt,Kaum Schmerzen
+49,männlich,nicht-anginös,148.0,304.0,0,Kein Herzinfarkt,Mittel
+54,männlich,typisch anginös,126.0,275.0,0,Kein Herzinfarkt,Mittel
+56,männlich,typisch anginös,120.0,269.0,1,Kein Herzinfarkt,Sehr starke Schmerzen
+46,männlich,typisch anginös,136.0,288.0,0,Kein Herzinfarkt,Mittel
+61,männlich,unsymptomatisch,160.0,309.0,0,Kein Herzinfarkt,Mittel
+67,männlich,typisch anginös,128.0,279.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+58,männlich,typisch anginös,106.0,281.0,0,Kein Herzinfarkt,Kaum Schmerzen
+47,männlich,typisch anginös,156.0,292.0,0,Kein Herzinfarkt,Starke Schmerzen
+52,männlich,typisch anginös,143.0,305.0,0,Kein Herzinfarkt,Starke Schmerzen
+58,männlich,typisch anginös,139.0,282.0,0,Kein Herzinfarkt,Kaum Schmerzen
+57,männlich,untypische anginös,112.0,284.0,0,Kein Herzinfarkt,Keine Schmerzen
+58,weiblich,untypische anginös,142.0,303.0,1,Kein Herzinfarkt,Mittel
+61,männlich,typisch anginös,127.0,291.0,0,Kein Herzinfarkt,Starke Schmerzen
+42,männlich,typisch anginös,136.0,282.0,0,Kein Herzinfarkt,Mittel
+52,männlich,typisch anginös,147.0,286.0,1,Kein Herzinfarkt,Starke Schmerzen
+59,männlich,nicht-anginös,132.0,319.0,1,Kein Herzinfarkt,Starke Schmerzen
+40,männlich,typisch anginös,144.0,309.0,0,Kein Herzinfarkt,Keine Schmerzen
+61,männlich,typisch anginös,131.0,290.0,0,Kein Herzinfarkt,Kaum Schmerzen
+46,männlich,typisch anginös,130.0,277.0,0,Kein Herzinfarkt,Starke Schmerzen
+59,männlich,unsymptomatisch,127.0,290.0,0,Kein Herzinfarkt,Mittel
+57,männlich,untypische anginös,138.0,260.0,0,Kein Herzinfarkt,Mittel
+57,männlich,typisch anginös,111.0,240.0,0,Kein Herzinfarkt,Keine Schmerzen
+55,weiblich,typisch anginös,127.0,291.0,0,Kein Herzinfarkt,Keine Schmerzen
+61,männlich,typisch anginös,133.0,294.0,0,Kein Herzinfarkt,Keine Schmerzen
+58,männlich,typisch anginös,129.0,279.0,0,Kein Herzinfarkt,Keine Schmerzen
+58,weiblich,typisch anginös,140.0,301.0,1,Kein Herzinfarkt,Keine Schmerzen
+67,männlich,nicht-anginös,128.0,271.0,0,Kein Herzinfarkt,Mittel
+44,männlich,typisch anginös,130.0,284.0,0,Kein Herzinfarkt,Starke Schmerzen
+63,männlich,typisch anginös,117.0,272.0,0,Kein Herzinfarkt,Kaum Schmerzen
+63,weiblich,typisch anginös,123.0,270.0,0,Kein Herzinfarkt,Starke Schmerzen
+59,männlich,typisch anginös,146.0,273.0,1,Kein Herzinfarkt,Mittel
+57,weiblich,typisch anginös,114.0,267.0,0,Kein Herzinfarkt,Sehr starke Schmerzen
+45,männlich,unsymptomatisch,144.0,276.0,0,Kein Herzinfarkt,Kaum Schmerzen
+68,männlich,typisch anginös,154.0,307.0,1,Kein Herzinfarkt,Sehr starke Schmerzen
+57,männlich,typisch anginös,162.0,328.0,0,Kein Herzinfarkt,Mittel
+57,weiblich,untypische anginös,117.0,270.0,0,Kein Herzinfarkt,Mittel

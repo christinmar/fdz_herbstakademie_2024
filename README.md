@@ -37,7 +37,7 @@ Es existieren unterschiedliche Möglichkeiten Python zu installieren. Beispielsw
 1. Mithilfe der grafischen Oberfläche der Anaconda Distribution können wir schnell und einfach virtuelle Umgebungen anlegen. Diese ermöglichen es uns, unterschiedliche Paket-Versionen (und auch Python-Versionen) getrennt voneinander zu installieren und erlauben damit eine übersichtliche Verwaltung der vielfältigen Modul-Abhängigkeiten innerhalb eines Projekts. Damit werden Kompatibilitätsprobleme vermieden. Für eine Übersicht über den Anaconda Navigator und für die Einrichtung einer Entwicklungsumgebung sehen Sie sich bitte das Video **02_Anaconda** (circa 3 Minuten) an.
 2. **Jupyter Notebook** ist eine integrierte Entwicklungsumgebung (IDE - Integrated Development Environment), die mit der Anaconda Distribution installiert wird. Möchten wir unseren Code dauerhaft speichern, ausführliche Skripte oder ganze Programme schreiben, können wir auf diese Notebooks zurückgreifen. Sehen Sie sich hierfür bitte das Video **03_JupyterNotebook** (circa 5 Minuten) an. 
 3. Die Python-Community stellt zahlreiche **Pakete** (engl. libraries) zur Verfügung, die zusätzlich installiert werden können. Das ist sinnvoll, da in diesen Paketen bereits Funktionen oder Methoden geschrieben sind, die wir nutzen können. Das bedeutet, wir müssen nicht alles selbst schreiben, sondern können auf "fertige" Funktionen zurückgreifen.
-  Wie die zusätzlichen Pakete mithilfe der grafischen Benutzeroberfläche des Anaconda Navigators installiert werden können, sehen Sie in dem Video **04_Installieren_Bibliotheken** (circa 4 Minuten). 
+    Wie die zusätzlichen Pakete mithilfe der grafischen Benutzeroberfläche des Anaconda Navigators installiert werden können, sehen Sie in dem Video **04_Installieren_Bibliotheken** (circa 4 Minuten). 
 4. Optional: Wir wissen aus dem vorherigen Video bereits, dass es unterschiedliche Zellentypen in Jupyter Notebook gibt. In Textzellen kann Text mithilfe der einfachen Auszeichnungssprache **Markdown** generiert werden. Um übersichtliche und für andere nachvollziehbare Notebooks zu schreiben, ist es sinnvoll sich mit Markdown auseinanderzusetzen. Zur Vorbereitung auf den Workshop steht es Ihnen frei, das 10-Minuten-Tutorial von CommonMark zu bearbeiten: https://commonmark.org/help/tutorial/
 
 
@@ -55,9 +55,27 @@ Bitte installieren Sie vor dem Kurs die folgenden Bibliotheken in Ihrem Anaconda
 
 ## Ablaufplan 
 
-tba
+**1.Tag**
 
+| **Zeit**      | **Inhalt**                            |
+| ------------- | ------------------------------------- |
+| 14:00 - 14:30 | Vorstellungsrunde & Organisatorisches |
+| 14:30 - 14:45 | Installation & Vorbereitung           |
+| 14:45 - 15:45 | Block 1: Grundlagen in Python         |
+| 15:45 - 16:00 | Kaffeepause                           |
+| 16:00 - 17:15 | Block 2: Kontrollfluss & Funktionen   |
+| 17:15 - 17:45 | Block 3 - Teil I: Import & Export     |
+| 17:45 - 18:00 | Kurze Zwischenevaluation              |
 
+**2. Tag** 
+
+| **Zeit**      | **Inhalt**                                                   |
+| ------------- | ------------------------------------------------------------ |
+| 14:00 - 14:30 | Block 3 - Teil II: Import & Export                           |
+| 14:30 - 15:45 | Block 4: Numpy & Pandas                                      |
+| 15:45 - 16:00 | Kaffeepause am Nachmittag                                    |
+| 16:00 - 17:45 | Block 5: Individuelle Vertiefungsphase <br>Auswahl aus: <br>5a: Visualisierungen<br>5b: Statistik<br>5c: Data Mining<br>5d: Arbeiten mit Texten |
+| 17:45 - 18:00 | WrapUp                                                       |
 
 ## Literatur
 

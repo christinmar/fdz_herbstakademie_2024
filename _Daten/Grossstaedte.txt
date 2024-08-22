@@ -1,0 +1,10 @@
+Tokio
+Delhi
+Shanghai
+Sao Paulo
+Mexiko-Stadt
+Kairo
+Mumbai
+Peking
+Dhaka
+Osaka
